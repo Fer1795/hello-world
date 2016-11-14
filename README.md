@@ -1,3 +1,3 @@
 # hello-world
 Things.
-From Costa Rica, leanring how to code.
+From Costa Rica, learning how to code.
